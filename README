@@ -1,0 +1,7 @@
+#Install dependencies and the project
+//Install for running tests
+pip3 install pytest
+//Install the current project as python package
+pip3 install -e .
+
+//run tests
